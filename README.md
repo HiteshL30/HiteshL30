@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/hitesh-lanjewar-devopsengineer/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+  <a href="https://hiteshlanjewar-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A7E8C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
@@ -47,13 +50,9 @@
 ### GitOps, Monitoring & Security
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ansible,prometheus,grafana" alt="Infrastructure automation and monitoring"/>
-</p>
-
-<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring tools"/>
   <img src="https://img.shields.io/badge/Argo%20CD-GitOps-EF7B4D?style=flat-square&logo=argo" alt="Argo CD"/>
   <img src="https://img.shields.io/badge/Trivy-Security-1904DA?style=flat-square" alt="Trivy"/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-Containers-2496ED?style=flat-square&logo=docker" alt="Docker Compose"/>
 </p>
 
 ### Development & Databases
@@ -61,48 +60,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,spring,mongodb,mysql,nginx" alt="Development tools and databases"/>
 </p>
-
-## 📌 Featured Projects
-
-### 1. Campus Connect Alumni Portal — End-to-End DevOps
-
-- Automated CI/CD workflow using GitLab CI/CD
-- Docker image build, testing, Trivy scanning and Docker Hub publishing
-- Deployment on AWS EC2 using Docker Compose
-- MySQL persistence, Nginx reverse proxy and monitoring experiments
-
-**Tools:** GitLab CI/CD, Docker, Trivy, Docker Hub, AWS EC2, MySQL, Nginx
-
-🔗 [View Repository](https://github.com/HiteshL30/Campus-Connect-Alumni-Portal-with-DevOps-end-to-end-workflow)
-
-### 2. Employee Records App — DevOps & Cloud
-
-- Containerized MERN application
-- Practicing Terraform-based AWS infrastructure provisioning
-- Working with shell scripts, application deployment and environment configuration
-- Exploring secure and repeatable deployment workflows
-
-**Tools:** Docker, React, Node.js, Express, MongoDB, AWS, Terraform
-
-🔗 [View Repository](https://github.com/HiteshL30/Employee-Records-App-DevOps)
-
-### 3. Kubernetes & GitOps Practice
-
-- Practicing Kubernetes deployments, Services and Ingress
-- Managing application deployment through Argo CD
-- Learning declarative configuration and GitOps workflows
-- Troubleshooting pods, services and application access
-
-**Tools:** Kubernetes, YAML, kubectl, Argo CD
-
-🔗 [Kubestarter](https://github.com/HiteshL30/Kubestarter) · [Argo CD Demo Apps](https://github.com/HiteshL30/ArgoCD_Demo_Apps)
-
-### 4. My Portfolio
-
-- Personal portfolio website
-- GitHub Actions workflow and Netlify deployment
-
-🔗 [View Repository](https://github.com/HiteshL30/My-Portfolio) · [Live Portfolio](https://hiteshlanjewar-portfolio.netlify.app)
 
 ## ⚙️ What I Practice
 
@@ -138,10 +95,10 @@
 
 ## 🤝 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/hitesh-lanjewar-devopsengineer/">LinkedIn</a> |
+<p align="center">
   <a href="https://github.com/HiteshL30">GitHub</a> |
-  <a href="https://hiteshlanjewar-portfolio.netlify.app">Portfolio</a>
+  <a href="https://www.linkedin.com/in/hitesh-lanjewar-devopsengineer/">LinkedIn</a> |
+  <a href="https://hiteshlanjewar-portfolio.netlify.app">Portfolio Website</a>
 </p>
 
 <p align="center">
