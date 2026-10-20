@@ -1,100 +1,66 @@
+# Hi, I'm Hitesh Lanjewar 👋
 
-<h1 align="center">Hi 👋, I'm Hitesh Lanjewar</h1>
-<h3 align="center">Aspiring DevOps Engineer | Cloud & Automation Enthusiast</h3>
+### Aspiring DevOps Engineer | Cloud & Automation
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer+in+Progress;Automating+CI%2FCD+Pipelines;Docker+%7C+Jenkins+%7C+AWS+%7C+Terraform" alt="Typing SVG" />
-</p>
+I'm a Computer Science Engineering graduate interested in building reliable infrastructure, automating deployments, and learning how applications run in production.
 
-<p align="center">
-  <a href="https://github.com/HiteshL30">
-    <img src="https://img.shields.io/badge/GitHub-HiteshL30-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hitesh-lanjewar-devopsengineer/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
+I enjoy working with Linux, Docker, AWS, CI/CD pipelines, and Kubernetes. I also practice troubleshooting deployment issues and improving application delivery workflows.
+
+- 🔭 Working on: DevOps automation and deployment projects
+- ☁️ Cloud: AWS
+- 🐳 Containers: Docker, Docker Compose
+- ⚙️ CI/CD: Jenkins, GitHub Actions, GitLab CI/CD
+- ☸️ Orchestration & GitOps: Kubernetes, Argo CD
+- 🏗️ Infrastructure as Code: Terraform
+- 📊 Monitoring: Prometheus, Grafana
+- 🐧 Systems: Linux, Bash, Git
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/hitesh-lanjewar-288913257/)
+- 💻 Explore my [GitHub repositories](https://github.com/HiteshL30)
 
 ---
 
-## 🚀 About Me
+## 🚀 Featured Projects
 
-- 🌱 Building practical, production-style DevOps projects
-- 🔧 Working with CI/CD pipelines, Docker, Jenkins and GitLab CI/CD
-- ☁️ Learning AWS, Terraform and cloud infrastructure automation
-- 🔐 Exploring container security scanning and secure cloud authentication
-- 🎯 Focused on automation, reliability and deployment best practices
-- 📍 Nagpur, Maharashtra, India
+### 1. Campus Connect Alumni Portal — DevOps Workflow
+A full-stack application deployment project focused on containerization, CI/CD, and AWS.
 
-## 🛠️ Tech Stack
+**Tools:** Docker, Docker Compose, GitLab CI/CD, AWS EC2, MySQL, Nginx, Trivy
 
-### Languages & Scripting
-<p>
-  <img src="https://skillicons.dev/icons?i=bash,python,java,js" alt="Languages"/>
-</p>
+[View Repository](https://github.com/HiteshL30/Campus-Connect-Alumni-Portal-with-DevOps-end-to-end-workflow)
 
-### DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,gitlab,githubactions,aws,terraform,linux,git" alt="DevOps tools"/>
-</p>
+### 2. Kubernetes Starter
+Hands-on practice with Kubernetes resources, application deployments, services, and cluster troubleshooting.
 
-### Development & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,mongodb,mysql,nginx" alt="Development tools"/>
-</p>
+**Tools:** Kubernetes, YAML, kubectl
 
-## 📌 Featured Projects
+[View Repository](https://github.com/HiteshL30/Kubestarter)
 
-### 1. Campus Connect Alumni Portal — End-to-End DevOps
+### 3. Argo CD Demo Apps
+Practice with GitOps workflows and deploying applications through Argo CD.
 
-- GitHub → GitLab CI/CD → Docker → Trivy → Docker Hub → AWS EC2
-- Automated build, testing, security scanning and deployment
-- Docker Compose, persistent MySQL storage and monitoring stack
+**Tools:** Kubernetes, Argo CD, Git
 
-🔗 [View Repository](https://github.com/HiteshL30/Campus-Connect-Alumni-Portal-with-DevOps-end-to-end-workflow)
+[View Repository](https://github.com/HiteshL30/ArgoCD_Demo_Apps)
 
-### 2. Employee Records App — DevOps & Terraform
+### 4. Employee Records App
+A full-stack application used to practice containerization and deployment automation.
 
-- Containerized MERN application
-- Terraform-based AWS infrastructure provisioning
-- EC2 bootstrap automation using shell scripting
-- S3 and IAM integration
+**Tools:** Docker, React, Node.js, Express, MongoDB, AWS, CI/CD
 
-🔗 [View Repository](https://github.com/HiteshL30/Employee-Records-App-DevOps)
+[View Repository](https://github.com/HiteshL30/Employee-Records-App-DevOps)
 
-### 3. My Portfolio
+---
 
-- Personal portfolio website
-- GitHub Actions manual workflow and Netlify deployment
+## 📚 Currently Learning
 
-🔗 [View Repository](https://github.com/HiteshL30/My-Portfolio)
+- Kubernetes deployment and troubleshooting
+- GitOps with Argo CD
+- Infrastructure automation using Terraform
+- Monitoring and alerting with Prometheus and Grafana
+- CI/CD security using Trivy
 
-## 📊 GitHub Statistics
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiteshL30&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-</p>
+## 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshL30&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HiteshL30&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/hitesh-lanjewar-devopsengineer/">
-    LinkedIn
-  </a>
-  |
-  <a href="https://github.com/HiteshL30">
-    GitHub
-  </a>
-</p>
-
-<p align="center">
-  <i>"Building the future, one deployment at a time."</i>
-</p>
+[LinkedIn](https://www.linkedin.com/in/hitesh-lanjewar-288913257/) · [GitHub](https://github.com/HiteshL30)
