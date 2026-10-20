@@ -1,6 +1,6 @@
-# Hi 👋, I'm Hitesh Lanjewar
+### <h1 align="center">Hi 👋, I'm Hitesh Lanjewar</h1>
 
-### Aspiring DevOps Engineer | Cloud & Automation Enthusiast
+### <h3 align="center">Aspiring DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=DevOps+Engineer+in+Progress;Automating+CI%2FCD+Pipelines;Docker+%7C+Kubernetes+%7C+AWS;Learning+GitOps+and+Cloud+Automation" alt="Typing SVG" />
