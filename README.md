@@ -31,7 +31,6 @@
 - 🔐 Exploring container security with Trivy
 - 📊 Learning monitoring and alerting with Prometheus and Grafana
 - 🎯 Focused on deployment automation, reliability and troubleshooting
-- 📍 Nagpur, Maharashtra, India
 
 ## 🛠️ Tech Stack
 
