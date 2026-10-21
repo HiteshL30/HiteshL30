@@ -77,10 +77,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshL30&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=HiteshL30&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
