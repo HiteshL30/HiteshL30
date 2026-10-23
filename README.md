@@ -70,16 +70,6 @@
 - Application health checks, logs and monitoring
 - Git version control and infrastructure automation
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiteshL30&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HiteshL30&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
 ## 📚 Currently Learning
 
 - Kubernetes troubleshooting and deployment strategies
